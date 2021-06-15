@@ -1,0 +1,21 @@
+
+.totaltask {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30px auto;
+}
+
+
+.onedone {
+  color: white;
+  background-color: darkorange;
+}
+.twodone {
+  color: white;
+  background-color: hotpink;
+}
+
+.done {
+  text-decoration: line-through;
+}
